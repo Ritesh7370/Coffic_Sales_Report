@@ -40,7 +40,7 @@ The dashboard delivers clear insights for business decision-making by integratin
 ---
 
 ## 📸 Dashboard Preview
-![Coffee Sales Dashboard](https://github.com/YourUsername/Coffee-Sales-Dashboard/blob/main/dashboard.png?raw=true)
+![Coffee Sales Dashboard]([https://github.com/YourUsername/Coffee-Sales-Dashboard/blob/main/dashboard.png?raw=true)
 
 ---
 
